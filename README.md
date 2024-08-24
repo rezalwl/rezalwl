@@ -52,10 +52,13 @@ const response = {
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="f" height="30" width="40" /></a>
+<P><a href="https://instagram.com/rezalwll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezalwl" height="30" width="40" /></a>
+<a href ="https://telegram.me/rezalwl" ><img  align="center" "https://dev.to/f" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"/></a>     <a href="https://dev.to/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="f" height="30" width="40" /></a>
 <a href="https://twitter.com/g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="g" height="30" width="40" /></a>
 <a href="https://medium.com/@g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@g" height="30" width="40" /></a>
-<a href="/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="f" height="30" width="40" /></a><a href="https://instagram.com/rezalwll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezalwl" height="30" width="40" /></a>  <a href ="https://telegram.me/rezalwl" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  /></a>
+<a href="/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="f" height="30" width="40" /></a>
+
+</P>
 
 
 
