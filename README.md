@@ -47,7 +47,8 @@ const response = {
 <h3 align="left">Connect with me:</h3>
 <P><a href="https://instagram.com/rezalwll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezalwl" height="30" width="40" /></a>
 <a href ="https://telegram.me/rezalwl" ><img  align="center" "https://dev.to/f" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"/></a>
-
+  <a href ="mailto:mohamadreza1998.w@gmail.com" ><img  align="center"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail"/></a>
+ 
 </P>
 
 
